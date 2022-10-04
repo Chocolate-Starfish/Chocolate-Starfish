@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi all,⚡
 
-<!--
-**Chocolate-Starfish/Chocolate-Starfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on a few GitHub repositories, namely Tinychat API by <a href="https://github.com/Ruddernation-Designs/Tinychat-API" target="_blank" title="Ruddernation-Designs - Tinychat API">Ruddernation-Designs</a>,
+I've been fortunate to of had my tiny updates to the plugin accepted.
 
-Here are some ideas to get you started:
+![Choco's github stats](https://github-readme-stats.vercel.app/api?username=Chocolate-Starfish&theme=radical&show_icons=true)<br>
+<!-- For when I code something myself. ![Choco's Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Chocolate-Starfish&theme=radical=true)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm readin now.
+
+<a href="https://github.com/Ruddernation-Designs/Programming_Books" target="_blank" title="Programming Books">A Mix of Programming Books</a>
+ <a href="https://github.com/Ruddernation-Designs/python-cheat-sheet" target="_blank" title="Python 3 Cheat Sheet">Python 3 Cheat Sheet</a>
+ I'm Choco ⚡ and  I’m currently learning Python, PHP and JavaScipt. 🌱
+
+<!-- 📫🤔👯🔭 -->
